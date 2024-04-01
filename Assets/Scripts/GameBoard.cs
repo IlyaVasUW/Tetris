@@ -85,6 +85,7 @@ public class GameBoard : MonoBehaviour
                         }
                     }
                 }
+                row --;
             }
         }
         return numLinesCleared;
