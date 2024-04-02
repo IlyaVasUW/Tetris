@@ -8,7 +8,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -36,8 +37,6 @@ Temporary Items
 **/[Ll]ibrary/
 **/[Tt]emp/
 **/[Oo]bj/
-/[Bb]uild/
-**/[Bb]uilds/
 **/[Ll]ogs/
 **/[Mm]emoryCaptures/
 
